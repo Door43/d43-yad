@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yad:home|Door43 (yad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yad|d43-yad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yad/archive/master.zip|d43-yad.zip]]
+
+**Recent Changes**
+{{changes>ns = yad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yad|Ethnologue data]]
+
